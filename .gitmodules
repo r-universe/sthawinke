@@ -5,6 +5,3 @@
 [submodule "oosse"]
 	path = oosse
 	url = https://github.com/sthawinke/oosse
-[submodule "pengls"]
-	path = pengls
-	url = https://github.com/sthawinke/pengls
